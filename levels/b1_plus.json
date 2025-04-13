@@ -1,0 +1,505 @@
+{
+  "level": "B1_PLUS",
+  "words": [
+    {
+      "word": "accomplish",
+      "meaning": "başarmak",
+      "example": "She accomplished all her goals for the year."
+    },
+    {
+      "word": "determine",
+      "meaning": "belirlemek",
+      "example": "We need to determine the best course of action."
+    },
+    {
+      "word": "enhance",
+      "meaning": "geliştirmek, iyileştirmek",
+      "example": "These changes will enhance the user experience."
+    },
+    {
+      "word": "implement",
+      "meaning": "uygulamak",
+      "example": "We need to implement these new policies."
+    },
+    {
+      "word": "facilitate",
+      "meaning": "kolaylaştırmak",
+      "example": "The new system will facilitate communication."
+    },
+    {
+      "word": "integrate",
+      "meaning": "bütünleştirmek",
+      "example": "We need to integrate these features into our app."
+    },
+    {
+      "word": "coordinate",
+      "meaning": "koordine etmek",
+      "example": "She coordinates all team activities."
+    },
+    {
+      "word": "analyze",
+      "meaning": "analiz etmek",
+      "example": "Let's analyze the results carefully."
+    },
+    {
+      "word": "evaluate",
+      "meaning": "değerlendirmek",
+      "example": "We need to evaluate all options."
+    },
+    {
+      "word": "generate",
+      "meaning": "üretmek",
+      "example": "This will generate better results."
+    },
+    {
+      "word": "achieve",
+      "meaning": "başarmak",
+      "example": "He achieved a high score on the test."
+    },
+    {
+      "word": "adapt",
+      "meaning": "uyum sağlamak",
+      "example": "You need to adapt to the new environment."
+    },
+    {
+      "word": "address",
+      "meaning": "ele almak",
+      "example": "We must address this issue immediately."
+    },
+    {
+      "word": "allocate",
+      "meaning": "tahsis etmek",
+      "example": "They allocated funds for the project."
+    },
+    {
+      "word": "anticipate",
+      "meaning": "beklemek, öngörmek",
+      "example": "We anticipate some challenges ahead."
+    },
+    {
+      "word": "assess",
+      "meaning": "değerlendirmek",
+      "example": "The teacher will assess our work."
+    },
+    {
+      "word": "collaborate",
+      "meaning": "işbirliği yapmak",
+      "example": "We collaborated on a new project."
+    },
+    {
+      "word": "commit",
+      "meaning": "adama, taahhüt etmek",
+      "example": "She is committed to her studies."
+    },
+    {
+      "word": "conduct",
+      "meaning": "yürütmek",
+      "example": "They conducted a survey last month."
+    },
+    {
+      "word": "contribute",
+      "meaning": "katkıda bulunmak",
+      "example": "Everyone should contribute to the discussion."
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "göstermek",
+      "example": "She demonstrated her skills in the presentation."
+    },
+    {
+      "word": "develop",
+      "meaning": "geliştirmek",
+      "example": "They are developing a new app."
+    },
+    {
+      "word": "ensure",
+      "meaning": "sağlamak",
+      "example": "We must ensure safety at all times."
+    },
+    {
+      "word": "establish",
+      "meaning": "kurmak",
+      "example": "They established a new company."
+    },
+    {
+      "word": "expand",
+      "meaning": "genişletmek",
+      "example": "The business expanded to Europe."
+    },
+    {
+      "word": "identify",
+      "meaning": "tanımlamak",
+      "example": "We need to identify the problem."
+    },
+    {
+      "word": "improve",
+      "meaning": "iyileştirmek",
+      "example": "This will improve our efficiency."
+    },
+    {
+      "word": "maintain",
+      "meaning": "sürdürmek",
+      "example": "We need to maintain good relations."
+    },
+    {
+      "word": "monitor",
+      "meaning": "izlemek",
+      "example": "They monitor the progress daily."
+    },
+    {
+      "word": "negotiate",
+      "meaning": "müzakere etmek",
+      "example": "We negotiated a better deal."
+    },
+    {
+      "word": "organize",
+      "meaning": "düzenlemek",
+      "example": "She organized a conference."
+    },
+    {
+      "word": "participate",
+      "meaning": "katılmak",
+      "example": "I want to participate in the event."
+    },
+    {
+      "word": "prioritize",
+      "meaning": "öncelik vermek",
+      "example": "We need to prioritize our tasks."
+    },
+    {
+      "word": "promote",
+      "meaning": "teşvik etmek",
+      "example": "They promote healthy living."
+    },
+    {
+      "word": "resolve",
+      "meaning": "çözmek",
+      "example": "We resolved the conflict quickly."
+    },
+    {
+      "word": "retain",
+      "meaning": "tutmak",
+      "example": "The company retains talented employees."
+    },
+    {
+      "word": "support",
+      "meaning": "desteklemek",
+      "example": "We support the new initiative."
+    },
+    {
+      "word": "sustain",
+      "meaning": "sürdürmek",
+      "example": "We need to sustain our efforts."
+    },
+    {
+      "word": "transform",
+      "meaning": "dönüştürmek",
+      "example": "This will transform our business."
+    },
+    {
+      "word": "utilize",
+      "meaning": "kullanmak",
+      "example": "We should utilize our resources wisely."
+    },
+    {
+      "word": "challenge",
+      "meaning": "meydan okuma",
+      "example": "This project is a big challenge."
+    },
+    {
+      "word": "opportunity",
+      "meaning": "fırsat",
+      "example": "This is a great opportunity for growth."
+    },
+    {
+      "word": "strategy",
+      "meaning": "strateji",
+      "example": "We need a new marketing strategy."
+    },
+    {
+      "word": "objective",
+      "meaning": "hedef",
+      "example": "Our objective is to increase sales."
+    },
+    {
+      "word": "priority",
+      "meaning": "öncelik",
+      "example": "Safety is our top priority."
+    },
+    {
+      "word": "benefit",
+      "meaning": "fayda",
+      "example": "This plan has many benefits."
+    },
+    {
+      "word": "impact",
+      "meaning": "etki",
+      "example": "The decision had a big impact."
+    },
+    {
+      "word": "issue",
+      "meaning": "sorun",
+      "example": "We discussed several issues."
+    },
+    {
+      "word": "solution",
+      "meaning": "çözüm",
+      "example": "We found a solution to the problem."
+    },
+    {
+      "word": "trend",
+      "meaning": "eğilim",
+      "example": "This is a new trend in technology."
+    },
+    {
+      "word": "advantage",
+      "meaning": "avantaj",
+      "example": "Our product has many advantages."
+    },
+    {
+      "word": "disadvantage",
+      "meaning": "dezavantaj",
+      "example": "There are some disadvantages to this plan."
+    },
+    {
+      "word": "approach",
+      "meaning": "yaklaşım",
+      "example": "We need a different approach."
+    },
+    {
+      "word": "concept",
+      "meaning": "kavram",
+      "example": "This is a difficult concept to understand."
+    },
+    {
+      "word": "context",
+      "meaning": "bağlam",
+      "example": "You need to understand the context."
+    },
+    {
+      "word": "factor",
+      "meaning": "etken",
+      "example": "Cost is an important factor."
+    },
+    {
+      "word": "perspective",
+      "meaning": "bakış açısı",
+      "example": "I appreciate your perspective."
+    },
+    {
+      "word": "purpose",
+      "meaning": "amaç",
+      "example": "What is the purpose of this meeting?"
+    },
+    {
+      "word": "resource",
+      "meaning": "kaynak",
+      "example": "We have limited resources."
+    },
+    {
+      "word": "significant",
+      "meaning": "önemli",
+      "example": "This is a significant improvement."
+    },
+    {
+      "word": "complex",
+      "meaning": "karmaşık",
+      "example": "The issue is quite complex."
+    },
+    {
+      "word": "efficient",
+      "meaning": "verimli",
+      "example": "This is an efficient system."
+    },
+    {
+      "word": "flexible",
+      "meaning": "esnek",
+      "example": "We need a flexible schedule."
+    },
+    {
+      "word": "innovative",
+      "meaning": "yenilikçi",
+      "example": "They launched an innovative product."
+    },
+    {
+      "word": "reliable",
+      "meaning": "güvenilir",
+      "example": "This is a reliable source of information."
+    },
+    {
+      "word": "accurate",
+      "meaning": "doğru",
+      "example": "We need accurate data."
+    },
+    {
+      "word": "consistent",
+      "meaning": "tutarlı",
+      "example": "Her work is always consistent."
+    },
+    {
+      "word": "diverse",
+      "meaning": "çeşitli",
+      "example": "We have a diverse team."
+    },
+    {
+      "word": "essential",
+      "meaning": "temel",
+      "example": "Water is essential for life."
+    },
+    {
+      "word": "practical",
+      "meaning": "pratik",
+      "example": "This is a practical solution."
+    },
+    {
+      "word": "relevant",
+      "meaning": "ilgili",
+      "example": "This information is relevant to our case."
+    },
+    {
+      "word": "suitable",
+      "meaning": "uygun",
+      "example": "This is a suitable time to meet."
+    },
+    {
+      "word": "aware",
+      "meaning": "farkında",
+      "example": "Are you aware of the risks?"
+    },
+    {
+      "word": "confident",
+      "meaning": "kendine güvenen",
+      "example": "She feels confident about the exam."
+    },
+    {
+      "word": "motivated",
+      "meaning": "motive olmuş",
+      "example": "The team is highly motivated."
+    },
+    {
+      "word": "responsible",
+      "meaning": "sorumlu",
+      "example": "He is responsible for the project."
+    },
+    {
+      "word": "consider",
+      "meaning": "düşünmek",
+      "example": "We should consider all possibilities."
+    },
+    {
+      "word": "consult",
+      "meaning": "danışmak",
+      "example": "I need to consult my manager."
+    },
+    {
+      "word": "convince",
+      "meaning": "ikna etmek",
+      "example": "She convinced me to join."
+    },
+    {
+      "word": "emphasize",
+      "meaning": "vurgulamak",
+      "example": "He emphasized the importance of teamwork."
+    },
+    {
+      "word": "encourage",
+      "meaning": "teşvik etmek",
+      "example": "We encourage creativity."
+    },
+    {
+      "word": "inspire",
+      "meaning": "ilham vermek",
+      "example": "Her speech inspired us all."
+    },
+    {
+      "word": "persuade",
+      "meaning": "ikna etmek",
+      "example": "I persuaded him to change his mind."
+    },
+    {
+      "word": "recommend",
+      "meaning": "önermek",
+      "example": "I recommend this book."
+    },
+    {
+      "word": "reflect",
+      "meaning": "yansıtmak",
+      "example": "Her work reflects her dedication."
+    },
+    {
+      "word": "represent",
+      "meaning": "temsil etmek",
+      "example": "She represents our company."
+    },
+    {
+      "word": "research",
+      "meaning": "araştırma",
+      "example": "We conducted research on the topic."
+    },
+    {
+      "word": "review",
+      "meaning": "gözden geçirmek",
+      "example": "Please review the document."
+    },
+    {
+      "word": "summarize",
+      "meaning": "özetlemek",
+      "example": "Can you summarize the main points?"
+    },
+    {
+      "word": "assume",
+      "meaning": "varsaymak",
+      "example": "I assume you’re coming to the meeting."
+    },
+    {
+      "word": "conclude",
+      "meaning": "sonuçlandırmak",
+      "example": "We concluded the discussion."
+    },
+    {
+      "word": "estimate",
+      "meaning": "tahmin etmek",
+      "example": "We estimated the cost."
+    },
+    {
+      "word": "predict",
+      "meaning": "tahmin etmek",
+      "example": "It’s hard to predict the outcome."
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "kabul etmek",
+      "example": "He acknowledged his mistake."
+    },
+    {
+      "word": "appreciate",
+      "meaning": "takdir etmek",
+      "example": "I appreciate your help."
+    },
+    {
+      "word": "confirm",
+      "meaning": "doğrulamak",
+      "example": "Can you confirm the details?"
+    },
+    {
+      "word": "justify",
+      "meaning": "haklı çıkarmak",
+      "example": "You need to justify your decision."
+    },
+    {
+      "word": "performance",
+      "meaning": "performans",
+      "example": "Her performance was excellent."
+    },
+    {
+      "word": "progress",
+      "meaning": "ilerleme",
+      "example": "We’re making good progress."
+    },
+    {
+      "word": "standard",
+      "meaning": "standart",
+      "example": "This meets our quality standards."
+    }
+  ]
+}
