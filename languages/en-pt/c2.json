@@ -1,0 +1,500 @@
+{
+  "level": "C2",
+  "words": [
+    {
+      "word": "esoteric",
+      "meaning": "gizemli, anlaşılması zor",
+      "example": "The book contains esoteric knowledge about ancient civilizations."
+    },
+    {
+      "word": "quintessential",
+      "meaning": "tipik, özünü yansıtan",
+      "example": "This is the quintessential example of modern architecture."
+    },
+    {
+      "word": "ephemeral",
+      "meaning": "geçici, kısa ömürlü",
+      "example": "Fame can be ephemeral in the entertainment industry."
+    },
+    {
+      "word": "fastidious",
+      "meaning": "titiz, müşkülpesent",
+      "example": "He is fastidious about his appearance."
+    },
+    {
+      "word": "idiosyncratic",
+      "meaning": "kendine özgü",
+      "example": "She has an idiosyncratic writing style."
+    },
+    {
+      "word": "inexorable",
+      "meaning": "durdurulamaz, kaçınılmaz",
+      "example": "The inexorable march of technology continues."
+    },
+    {
+      "word": "nebulous",
+      "meaning": "belirsiz, bulanık",
+      "example": "The project goals remain nebulous."
+    },
+    {
+      "word": "perfunctory",
+      "meaning": "üstünkörü, gelişigüzel",
+      "example": "He gave the report a perfunctory glance."
+    },
+    {
+      "word": "surreptitious",
+      "meaning": "gizli, el altından",
+      "example": "She took a surreptitious look at her phone."
+    },
+    {
+      "word": "vociferous",
+      "meaning": "gürültülü, çok sesli",
+      "example": "The proposal met with vociferous opposition."
+    },
+    {
+      "word": "abstruse",
+      "meaning": "anlaşılması zor, karmaşık",
+      "example": "The lecture was abstruse and hard to follow."
+    },
+    {
+      "word": "acrimonious",
+      "meaning": "sert, iğneleyici",
+      "example": "The debate became acrimonious."
+    },
+    {
+      "word": "ameliorate",
+      "meaning": "iyileştirmek",
+      "example": "Efforts to ameliorate the situation were underway."
+    },
+    {
+      "word": "anachronistic",
+      "meaning": "çağdışı",
+      "example": "His views seem anachronistic today."
+    },
+    {
+      "word": "antithetical",
+      "meaning": "zıt, karşıt",
+      "example": "Their goals are antithetical to ours."
+    },
+    {
+      "word": "apocryphal",
+      "meaning": "uydurma, şüpheli",
+      "example": "The story sounds apocryphal."
+    },
+    {
+      "word": "arcane",
+      "meaning": "gizli, esrarengiz",
+      "example": "The ritual is steeped in arcane tradition."
+    },
+    {
+      "word": "austere",
+      "meaning": "sade, katı",
+      "example": "He led an austere lifestyle."
+    },
+    {
+      "word": "bellicose",
+      "meaning": "savaşçı, kavgacı",
+      "example": "His bellicose rhetoric alarmed many."
+    },
+    {
+      "word": "cacophonous",
+      "meaning": "kulak tırmalayıcı",
+      "example": "The room was filled with cacophonous sounds."
+    },
+    {
+      "word": "capricious",
+      "meaning": "kaprisli, değişken",
+      "example": "Her capricious behavior puzzled everyone."
+    },
+    {
+      "word": "castigate",
+      "meaning": "sertçe eleştirmek",
+      "example": "The critic castigated the film mercilessly."
+    },
+    {
+      "word": "circuitous",
+      "meaning": "dolambaçlı",
+      "example": "He took a circuitous route to avoid traffic."
+    },
+    {
+      "word": "circumlocution",
+      "meaning": "dolaylı anlatım",
+      "example": "His speech was full of circumlocution."
+    },
+    {
+      "word": "cogent",
+      "meaning": "ikna edici",
+      "example": "She presented a cogent argument."
+    },
+    {
+      "word": "commensurate",
+      "meaning": "orantılı, uygun",
+      "example": "Her salary is commensurate with her experience."
+    },
+    {
+      "word": "conflagration",
+      "meaning": "büyük yangın, felaket",
+      "example": "The conflagration destroyed entire neighborhoods."
+    },
+    {
+      "word": "convoluted",
+      "meaning": "karmaşık, anlaşılmaz",
+      "example": "The plot was unnecessarily convoluted."
+    },
+    {
+      "word": "dearth",
+      "meaning": "kıtlık, yokluk",
+      "example": "There’s a dearth of reliable information."
+    },
+    {
+      "word": "deleterious",
+      "meaning": "zararlı",
+      "example": "The policy had deleterious effects."
+    },
+    {
+      "word": "demagogue",
+      "meaning": "kışkırtıcı lider",
+      "example": "He was accused of being a demagogue."
+    },
+    {
+      "word": "deride",
+      "meaning": "alay etmek",
+      "example": "They derided his outdated ideas."
+    },
+    {
+      "word": "diatribe",
+      "meaning": "sert eleştiri, taşlama",
+      "example": "His speech was a diatribe against the system."
+    },
+    {
+      "word": "didactic",
+      "meaning": "öğretici",
+      "example": "The novel has a didactic tone."
+    },
+    {
+      "word": "discomfit",
+      "meaning": "bozmak, utandırmak",
+      "example": "His question discomfited the speaker."
+    },
+    {
+      "word": "dissolute",
+      "meaning": "ahlaksız, sefih",
+      "example": "He led a dissolute lifestyle."
+    },
+    {
+      "word": "ebullient",
+      "meaning": "coşkulu",
+      "example": "Her ebullient personality lit up the room."
+    },
+    {
+      "word": "effervescent",
+      "meaning": "köpüren, canlı",
+      "example": "She has an effervescent charm."
+    },
+    {
+      "word": "enervate",
+      "meaning": "zayıflatmak",
+      "example": "The heat enervated everyone."
+    },
+    {
+      "word": "enigmatic",
+      "meaning": "gizemli",
+      "example": "His enigmatic smile intrigued her."
+    },
+    {
+      "word": "epiphany",
+      "meaning": "ani aydınlanma",
+      "example": "She had an epiphany about her career."
+    },
+    {
+      "word": "equivocate",
+      "meaning": "kaçamak cevap vermek",
+      "example": "He equivocated when asked about his plans."
+    },
+    {
+      "word": "ersatz",
+      "meaning": "sahte, taklit",
+      "example": "The ersatz coffee tasted terrible."
+    },
+    {
+      "word": "evanescent",
+      "meaning": "geçici, kaybolan",
+      "example": "Her happiness was evanescent."
+    },
+    {
+      "word": "exculpate",
+      "meaning": "aklamak",
+      "example": "The evidence exculpated the defendant."
+    },
+    {
+      "word": "execrable",
+      "meaning": "iğrenç, berbat",
+      "example": "The conditions were execrable."
+    },
+    {
+      "word": "expiate",
+      "meaning": "kefaret ödemek",
+      "example": "He sought to expiate his mistakes."
+    },
+    {
+      "word": "extenuating",
+      "meaning": "hafifletici",
+      "example": "There were extenuating circumstances."
+    },
+    {
+      "word": "fatuous",
+      "meaning": "aptalca, saçma",
+      "example": "His fatuous comments annoyed everyone."
+    },
+    {
+      "word": "felicitous",
+      "meaning": "yerinde, uygun",
+      "example": "Her felicitous remark eased the tension."
+    },
+    {
+      "word": "florid",
+      "meaning": "süslü, abartılı",
+      "example": "His florid prose was hard to read."
+    },
+    {
+      "word": "fractious",
+      "meaning": "huysuz, geçimsiz",
+      "example": "The fractious meeting achieved little."
+    },
+    {
+      "word": "garrulous",
+      "meaning": "geveze",
+      "example": "The garrulous guest dominated the conversation."
+    },
+    {
+      "word": "gregarious",
+      "meaning": "sosyal, girişken",
+      "example": "She’s gregarious and loves parties."
+    },
+    {
+      "word": "iconoclastic",
+      "meaning": "yıkıcı, gelenek karşıtı",
+      "example": "His iconoclastic views shocked many."
+    },
+    {
+      "word": "impecunious",
+      "meaning": "parasız, fakir",
+      "example": "The impecunious artist struggled to survive."
+    },
+    {
+      "word": "impetuous",
+      "meaning": "düşüncesiz, aceleci",
+      "example": "Her impetuous decision led to trouble."
+    },
+    {
+      "word": "implacable",
+      "meaning": "uzlaşmaz",
+      "example": "He was an implacable opponent."
+    },
+    {
+      "word": "inchoate",
+      "meaning": "tam oluşmamış",
+      "example": "The plan is still inchoate."
+    },
+    {
+      "word": "incorrigible",
+      "meaning": "düzelmez",
+      "example": "He’s an incorrigible optimist."
+    },
+    {
+      "word": "indefatigable",
+      "meaning": "yorulmaz",
+      "example": "Her indefatigable spirit inspired us."
+    },
+    {
+      "word": "indolent",
+      "meaning": "tembel",
+      "example": "His indolent attitude frustrated his team."
+    },
+    {
+      "word": "insipid",
+      "meaning": "tatsız, yavan",
+      "example": "The book was insipid and forgettable."
+    },
+    {
+      "word": "inveterate",
+      "meaning": "köklü, alışkanlık haline gelmiş",
+      "example": "He’s an inveterate smoker."
+    },
+    {
+      "word": "jejune",
+      "meaning": "yavan, sıkıcı",
+      "example": "The lecture was jejune and uninspiring."
+    },
+    {
+      "word": "lacerating",
+      "meaning": "yırtıcı, incitici",
+      "example": "Her lacerating critique left him speechless."
+    },
+    {
+      "word": "lambent",
+      "meaning": "yumuşak ışıklı",
+      "example": "The lambent glow of the candles was soothing."
+    },
+    {
+      "word": "limpid",
+      "meaning": "berrak, açık",
+      "example": "Her limpid prose was a joy to read."
+    },
+    {
+      "word": "lugubrious",
+      "meaning": "kasvetli",
+      "example": "His lugubrious tone dampened the mood."
+    },
+    {
+      "word": "mellifluous",
+      "meaning": "tatlı, ahenkli",
+      "example": "Her mellifluous voice captivated the audience."
+    },
+    {
+      "word": "mendacious",
+      "meaning": "yalancı",
+      "example": "The report was mendacious and misleading."
+    },
+    {
+      "word": "mercurial",
+      "meaning": "değişken, oynak",
+      "example": "His mercurial temperament made him unpredictable."
+    },
+    {
+      "word": "obstreperous",
+      "meaning": "gürültücü, yaramaz",
+      "example": "The obstreperous crowd disrupted the event."
+    },
+    {
+      "word": "opprobrium",
+      "meaning": "aşağılama, kınama",
+      "example": "He faced public opprobrium for his actions."
+    },
+    {
+      "word": "panacea",
+      "meaning": "her derde deva",
+      "example": "Technology is not a panacea for all problems."
+    },
+    {
+      "word": "parsimonious",
+      "meaning": "cimri",
+      "example": "His parsimonious nature annoyed his friends."
+    },
+    {
+      "word": "penurious",
+      "meaning": "yoksul",
+      "example": "The penurious family struggled to survive."
+    },
+    {
+      "word": "perfidious",
+      "meaning": "hain, sadakatsiz",
+      "example": "His perfidious actions betrayed their trust."
+    },
+    {
+      "word": "perspicuous",
+      "meaning": "açık, anlaşılır",
+      "example": "Her perspicuous explanation clarified everything."
+    },
+    {
+      "word": "plangent",
+      "meaning": "hüzünlü, yankılanan",
+      "example": "The plangent melody moved the audience."
+    },
+    {
+      "word": "polemical",
+      "meaning": "tartışmacı",
+      "example": "His polemical style alienated some readers."
+    },
+    {
+      "word": "precipitous",
+      "meaning": "ani, dik",
+      "example": "The precipitous decline shocked investors."
+    },
+    {
+      "word": "propinquity",
+      "meaning": "yakınlık",
+      "example": "Their propinquity fostered a strong bond."
+    },
+    {
+      "word": "propitiate",
+      "meaning": "yatıştırmak",
+      "example": "They offered gifts to propitiate the gods."
+    },
+    {
+      "word": "pugnacious",
+      "meaning": "kavgacı",
+      "example": "His pugnacious attitude caused conflicts."
+    },
+    {
+      "word": "recondite",
+      "meaning": "anlaşılması zor",
+      "example": "The subject is recondite and complex."
+    },
+    {
+      "word": "reprobate",
+      "meaning": "ahlaksız",
+      "example": "He was labeled a reprobate by society."
+    },
+    {
+      "word": "sagacious",
+      "meaning": "akıllı, bilge",
+      "example": "Her sagacious advice guided us."
+    },
+    {
+      "word": "salubrious",
+      "meaning": "sağlığa yararlı",
+      "example": "The salubrious climate suited him."
+    },
+    {
+      "word": "sardonic",
+      "meaning": "alaycı, iğneleyici",
+      "example": "His sardonic wit amused some."
+    },
+    {
+      "word": "scintillating",
+      "meaning": "parlak, göz kamaştırıcı",
+      "example": "Her scintillating performance won praise."
+    },
+    {
+      "word": "taciturn",
+      "meaning": "suskun",
+      "example": "The taciturn man rarely spoke."
+    },
+    {
+      "word": "temerity",
+      "meaning": "cüret, pervasızlık",
+      "example": "She had the temerity to challenge him."
+    },
+    {
+      "word": "truculent",
+      "meaning": "agresif, kavgacı",
+      "example": "His truculent demeanor intimidated others."
+    },
+    {
+      "word": "turgid",
+      "meaning": "şişkin, abartılı",
+      "example": "The turgid speech bored the audience."
+    },
+    {
+      "word": "untenable",
+      "meaning": "savunulamaz",
+      "example": "His position became untenable."
+    },
+    {
+      "word": "verisimilitude",
+      "meaning": "gerçekçilik",
+      "example": "The novel’s verisimilitude impressed critics."
+    },
+    {
+      "word": "vituperative",
+      "meaning": "sövgülü, hakaretamiz",
+      "example": "The debate turned vituperative."
+    },
+    {
+      "word": "voluble",
+      "meaning": "konuşkan",
+      "example": "She’s a voluble and engaging speaker."
+    }
+  ]
+}

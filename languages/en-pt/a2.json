@@ -1,0 +1,500 @@
+{
+  "level": "A2",
+  "words": [
+    {
+      "word": "improve",
+      "meaning": "geliştirmek",
+      "example": "I want to improve my English skills."
+    },
+    {
+      "word": "schedule",
+      "meaning": "program, çizelge",
+      "example": "What is your daily schedule like?"
+    },
+    {
+      "word": "experience",
+      "meaning": "deneyim",
+      "example": "I have experience in teaching."
+    },
+    {
+      "word": "suggest",
+      "meaning": "önermek",
+      "example": "Can you suggest a good restaurant?"
+    },
+    {
+      "word": "prepare",
+      "meaning": "hazırlamak",
+      "example": "I need to prepare for the exam."
+    },
+    {
+      "word": "continue",
+      "meaning": "devam etmek",
+      "example": "Please continue with your story."
+    },
+    {
+      "word": "describe",
+      "meaning": "tanımlamak",
+      "example": "Can you describe your new car?"
+    },
+    {
+      "word": "remember",
+      "meaning": "hatırlamak",
+      "example": "I remember my first day at school."
+    },
+    {
+      "word": "explain",
+      "meaning": "açıklamak",
+      "example": "Can you explain this problem?"
+    },
+    {
+      "word": "believe",
+      "meaning": "inanmak",
+      "example": "I believe in you."
+    },
+    {
+      "word": "agree",
+      "meaning": "katılmak, anlaşmak",
+      "example": "I agree with your idea."
+    },
+    {
+      "word": "decide",
+      "meaning": "karar vermek",
+      "example": "I need to decide what to do."
+    },
+    {
+      "word": "forget",
+      "meaning": "unutmak",
+      "example": "Don’t forget to call me."
+    },
+    {
+      "word": "invite",
+      "meaning": "davet etmek",
+      "example": "I want to invite you to my party."
+    },
+    {
+      "word": "join",
+      "meaning": "katılmak",
+      "example": "Can I join your team?"
+    },
+    {
+      "word": "learn",
+      "meaning": "öğrenmek",
+      "example": "I’m learning Spanish."
+    },
+    {
+      "word": "listen",
+      "meaning": "dinlemek",
+      "example": "I listen to music every day."
+    },
+    {
+      "word": "pay",
+      "meaning": "ödemek",
+      "example": "I need to pay the bill."
+    },
+    {
+      "word": "start",
+      "meaning": "başlamak",
+      "example": "Let’s start the meeting."
+    },
+    {
+      "word": "stop",
+      "meaning": "durmak, durdurmak",
+      "example": "Please stop talking."
+    },
+    {
+      "word": "travel",
+      "meaning": "seyahat etmek",
+      "example": "I love to travel."
+    },
+    {
+      "word": "visit",
+      "meaning": "ziyaret etmek",
+      "example": "I want to visit Paris."
+    },
+    {
+      "word": "wait",
+      "meaning": "beklemek",
+      "example": "I’ll wait for you here."
+    },
+    {
+      "word": "change",
+      "meaning": "değiştirmek",
+      "example": "I need to change my clothes."
+    },
+    {
+      "word": "choose",
+      "meaning": "seçmek",
+      "example": "You can choose one book."
+    },
+    {
+      "word": "clean",
+      "meaning": "temizlemek",
+      "example": "I clean my room every week."
+    },
+    {
+      "word": "cook",
+      "meaning": "yemek yapmak",
+      "example": "She loves to cook dinner."
+    },
+    {
+      "word": "help",
+      "meaning": "yardım etmek",
+      "example": "Can you help me with this?"
+    },
+    {
+      "word": "open",
+      "meaning": "açmak",
+      "example": "Please open the window."
+    },
+    {
+      "word": "close",
+      "meaning": "kapatmak",
+      "example": "Close the door, please."
+    },
+    {
+      "word": "arrive",
+      "meaning": "varmak",
+      "example": "The train arrives at 6 p.m."
+    },
+    {
+      "word": "leave",
+      "meaning": "ayrılmak",
+      "example": "I leave home at 8 a.m."
+    },
+    {
+      "word": "return",
+      "meaning": "geri dönmek",
+      "example": "I’ll return in an hour."
+    },
+    {
+      "word": "buy",
+      "meaning": "satın almak",
+      "example": "I want to buy a new phone."
+    },
+    {
+      "word": "sell",
+      "meaning": "satmak",
+      "example": "They sell fresh fruit."
+    },
+    {
+      "word": "study",
+      "meaning": "çalışmak, öğrenim görmek",
+      "example": "I study English every day."
+    },
+    {
+      "word": "teach",
+      "meaning": "öğretmek",
+      "example": "She teaches math."
+    },
+    {
+      "word": "think",
+      "meaning": "düşünmek",
+      "example": "I think it’s a good idea."
+    },
+    {
+      "word": "understand",
+      "meaning": "anlamak",
+      "example": "I don’t understand this question."
+    },
+    {
+      "word": "answer",
+      "meaning": "cevap vermek",
+      "example": "Please answer the phone."
+    },
+    {
+      "word": "ask",
+      "meaning": "sormak",
+      "example": "Can I ask you something?"
+    },
+    {
+      "word": "meet",
+      "meaning": "tanışmak, buluşmak",
+      "example": "Let’s meet at the café."
+    },
+    {
+      "word": "follow",
+      "meaning": "takip etmek",
+      "example": "Please follow the instructions."
+    },
+    {
+      "word": "find",
+      "meaning": "bulmak",
+      "example": "I can’t find my keys."
+    },
+    {
+      "word": "lose",
+      "meaning": "kaybetmek",
+      "example": "I don’t want to lose my phone."
+    },
+    {
+      "word": "bring",
+      "meaning": "getirmek",
+      "example": "Can you bring some water?"
+    },
+    {
+      "word": "take",
+      "meaning": "almak",
+      "example": "I’ll take the blue one."
+    },
+    {
+      "word": "give",
+      "meaning": "vermek",
+      "example": "Give me your book, please."
+    },
+    {
+      "word": "problem",
+      "meaning": "sorun",
+      "example": "I have a problem with my computer."
+    },
+    {
+      "word": "idea",
+      "meaning": "fikir",
+      "example": "That’s a great idea!"
+    },
+    {
+      "word": "job",
+      "meaning": "iş",
+      "example": "I’m looking for a new job."
+    },
+    {
+      "word": "life",
+      "meaning": "hayat",
+      "example": "My life is busy."
+    },
+    {
+      "word": "world",
+      "meaning": "dünya",
+      "example": "I want to travel the world."
+    },
+    {
+      "word": "place",
+      "meaning": "yer",
+      "example": "This is a beautiful place."
+    },
+    {
+      "word": "group",
+      "meaning": "grup",
+      "example": "We work in a small group."
+    },
+    {
+      "word": "party",
+      "meaning": "parti",
+      "example": "I’m going to a party tonight."
+    },
+    {
+      "word": "movie",
+      "meaning": "film",
+      "example": "Let’s watch a movie."
+    },
+    {
+      "word": "music",
+      "meaning": "müzik",
+      "example": "I listen to music every day."
+    },
+    {
+      "word": "game",
+      "meaning": "oyun",
+      "example": "Do you want to play a game?"
+    },
+    {
+      "word": "photo",
+      "meaning": "fotoğraf",
+      "example": "I took a photo of the sunset."
+    },
+    {
+      "word": "plan",
+      "meaning": "plan",
+      "example": "We need to make a plan."
+    },
+    {
+      "word": "ticket",
+      "meaning": "bilet",
+      "example": "I bought a train ticket."
+    },
+    {
+      "word": "hotel",
+      "meaning": "otel",
+      "example": "I’m staying at a hotel."
+    },
+    {
+      "word": "street",
+      "meaning": "sokak",
+      "example": "The shop is on this street."
+    },
+    {
+      "word": "park",
+      "meaning": "park",
+      "example": "Let’s go to the park."
+    },
+    {
+      "word": "beach",
+      "meaning": "plaj",
+      "example": "I love the beach."
+    },
+    {
+      "word": "weather",
+      "meaning": "hava durumu",
+      "example": "The weather is nice today."
+    },
+    {
+      "word": "sun",
+      "meaning": "güneş",
+      "example": "The sun is shining."
+    },
+    {
+      "word": "rain",
+      "meaning": "yağmur",
+      "example": "It’s going to rain soon."
+    },
+    {
+      "word": "always",
+      "meaning": "her zaman",
+      "example": "I always drink coffee."
+    },
+    {
+      "word": "sometimes",
+      "meaning": "bazen",
+      "example": "I sometimes read books."
+    },
+    {
+      "word": "never",
+      "meaning": "asla",
+      "example": "I never eat fast food."
+    },
+    {
+      "word": "often",
+      "meaning": "sık sık",
+      "example": "I often visit my family."
+    },
+    {
+      "word": "early",
+      "meaning": "erken",
+      "example": "I wake up early."
+    },
+    {
+      "word": "late",
+      "meaning": "geç",
+      "example": "I was late for class."
+    },
+    {
+      "word": "busy",
+      "meaning": "meşgul",
+      "example": "I’m very busy today."
+    },
+    {
+      "word": "free",
+      "meaning": "boş, özgür",
+      "example": "Are you free tomorrow?"
+    },
+    {
+      "word": "easy",
+      "meaning": "kolay",
+      "example": "This game is easy."
+    },
+    {
+      "word": "difficult",
+      "meaning": "zor",
+      "example": "This book is difficult."
+    },
+    {
+      "word": "important",
+      "meaning": "önemli",
+      "example": "This meeting is important."
+    },
+    {
+      "word": "interesting",
+      "meaning": "ilginç",
+      "example": "The story is very interesting."
+    },
+    {
+      "word": "boring",
+      "meaning": "sıkıcı",
+      "example": "This movie is boring."
+    },
+    {
+      "word": "beautiful",
+      "meaning": "güzel",
+      "example": "The flowers are beautiful."
+    },
+    {
+      "word": "tired",
+      "meaning": "yorgun",
+      "example": "I’m tired after work."
+    },
+    {
+      "word": "hungry",
+      "meaning": "aç",
+      "example": "I’m hungry. Let’s eat."
+    },
+    {
+      "word": "thirsty",
+      "meaning": "susamış",
+      "example": "I’m thirsty. I need water."
+    },
+    {
+      "word": "because",
+      "meaning": "çünkü",
+      "example": "I’m late because of traffic."
+    },
+    {
+      "word": "but",
+      "meaning": "ama",
+      "example": "I want to go, but I’m busy."
+    },
+    {
+      "word": "or",
+      "meaning": "veya",
+      "example": "Tea or coffee?"
+    },
+    {
+      "word": "and",
+      "meaning": "ve",
+      "example": "I like tea and coffee."
+    },
+    {
+      "word": "before",
+      "meaning": "önce",
+      "example": "I eat breakfast before work."
+    },
+    {
+      "word": "after",
+      "meaning": "sonra",
+      "example": "I’ll call you after dinner."
+    },
+    {
+      "word": "near",
+      "meaning": "yakın",
+      "example": "The shop is near my house."
+    },
+    {
+      "word": "far",
+      "meaning": "uzak",
+      "example": "The park is far from here."
+    },
+    {
+      "word": "next",
+      "meaning": "sonraki",
+      "example": "I’ll see you next week."
+    },
+    {
+      "word": "last",
+      "meaning": "son",
+      "example": "I was here last Monday."
+    },
+    {
+      "word": "every",
+      "meaning": "her",
+      "example": "I run every morning."
+    },
+    {
+      "word": "some",
+      "meaning": "biraz",
+      "example": "I need some help."
+    },
+    {
+      "word": "many",
+      "meaning": "çok",
+      "example": "I have many friends."
+    }
+  ]
+}

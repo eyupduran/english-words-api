@@ -1,0 +1,495 @@
+{
+  "level": "B1",
+  "words": [
+    {
+      "word": "accomplish",
+      "meaning": "başarmak",
+      "example": "She accomplished all her goals for the year."
+    },
+    {
+      "word": "negotiate",
+      "meaning": "müzakere etmek",
+      "example": "We need to negotiate the terms of the contract."
+    },
+    {
+      "word": "consider",
+      "meaning": "düşünmek, değerlendirmek",
+      "example": "Please consider my proposal carefully."
+    },
+    {
+      "word": "maintain",
+      "meaning": "sürdürmek, korumak",
+      "example": "It's important to maintain good relationships."
+    },
+    {
+      "word": "establish",
+      "meaning": "kurmak, oluşturmak",
+      "example": "They want to establish a new business."
+    },
+    {
+      "word": "achieve",
+      "meaning": "elde etmek, başarmak",
+      "example": "You can achieve anything with hard work."
+    },
+    {
+      "word": "determine",
+      "meaning": "belirlemek",
+      "example": "We need to determine the best solution."
+    },
+    {
+      "word": "provide",
+      "meaning": "sağlamak, temin etmek",
+      "example": "The company provides excellent service."
+    },
+    {
+      "word": "require",
+      "meaning": "gerektirmek",
+      "example": "This job requires experience."
+    },
+    {
+      "word": "involve",
+      "meaning": "içermek, kapsamak",
+      "example": "The project involves many people."
+    },
+    {
+      "word": "affect",
+      "meaning": "etkilemek",
+      "example": "The weather can affect your mood."
+    },
+    {
+      "word": "analyze",
+      "meaning": "analiz etmek",
+      "example": "We need to analyze the data carefully."
+    },
+    {
+      "word": "apply",
+      "meaning": "başvurmak, uygulamak",
+      "example": "I want to apply for this job."
+    },
+    {
+      "word": "arrange",
+      "meaning": "düzenlemek",
+      "example": "She arranged a meeting for tomorrow."
+    },
+    {
+      "word": "assist",
+      "meaning": "yardım etmek",
+      "example": "Can you assist me with this task?"
+    },
+    {
+      "word": "attend",
+      "meaning": "katılmak",
+      "example": "I will attend the conference next week."
+    },
+    {
+      "word": "avoid",
+      "meaning": "kaçınmak",
+      "example": "Try to avoid making mistakes."
+    },
+    {
+      "word": "benefit",
+      "meaning": "fayda sağlamak",
+      "example": "Exercise benefits your health."
+    },
+    {
+      "word": "collaborate",
+      "meaning": "işbirliği yapmak",
+      "example": "We collaborated on a group project."
+    },
+    {
+      "word": "complete",
+      "meaning": "tamamlamak",
+      "example": "I need to complete this report by Friday."
+    },
+    {
+      "word": "contribute",
+      "meaning": "katkıda bulunmak",
+      "example": "Everyone should contribute to the team effort."
+    },
+    {
+      "word": "create",
+      "meaning": "yaratmak",
+      "example": "She created a beautiful painting."
+    },
+    {
+      "word": "decide",
+      "meaning": "karar vermek",
+      "example": "We need to decide where to go."
+    },
+    {
+      "word": "deliver",
+      "meaning": "teslim etmek",
+      "example": "They will deliver the package tomorrow."
+    },
+    {
+      "word": "depend",
+      "meaning": "bağlı olmak",
+      "example": "It depends on the situation."
+    },
+    {
+      "word": "develop",
+      "meaning": "geliştirmek",
+      "example": "They are developing a new product."
+    },
+    {
+      "word": "discover",
+      "meaning": "keşfetmek",
+      "example": "She discovered a new hobby."
+    },
+    {
+      "word": "discuss",
+      "meaning": "tartışmak",
+      "example": "Let’s discuss the plan in detail."
+    },
+    {
+      "word": "encourage",
+      "meaning": "teşvik etmek",
+      "example": "Teachers should encourage their students."
+    },
+    {
+      "word": "expand",
+      "meaning": "genişletmek",
+      "example": "The company plans to expand its operations."
+    },
+    {
+      "word": "explain",
+      "meaning": "açıklamak",
+      "example": "Can you explain this concept to me?"
+    },
+    {
+      "word": "explore",
+      "meaning": "keşfetmek",
+      "example": "We explored the city last weekend."
+    },
+    {
+      "word": "express",
+      "meaning": "ifade etmek",
+      "example": "She expressed her concerns clearly."
+    },
+    {
+      "word": "focus",
+      "meaning": "odaklanmak",
+      "example": "You should focus on your studies."
+    },
+    {
+      "word": "handle",
+      "meaning": "baş etmek, idare etmek",
+      "example": "She can handle difficult situations well."
+    },
+    {
+      "word": "identify",
+      "meaning": "tanımlamak",
+      "example": "We need to identify the main issues."
+    },
+    {
+      "word": "improve",
+      "meaning": "iyileştirmek",
+      "example": "I want to improve my skills."
+    },
+    {
+      "word": "increase",
+      "meaning": "artırmak",
+      "example": "They increased the price of the product."
+    },
+    {
+      "word": "influence",
+      "meaning": "etkilemek",
+      "example": "Her speech influenced many people."
+    },
+    {
+      "word": "inform",
+      "meaning": "bilgilendirmek",
+      "example": "Please inform me about any changes."
+    },
+    {
+      "word": "inspire",
+      "meaning": "ilham vermek",
+      "example": "His story inspired me to try harder."
+    },
+    {
+      "word": "introduce",
+      "meaning": "tanıştırmak, sunmak",
+      "example": "Let me introduce you to my friend."
+    },
+    {
+      "word": "invest",
+      "meaning": "yatırım yapmak",
+      "example": "They invested in a new startup."
+    },
+    {
+      "word": "join",
+      "meaning": "katılmak",
+      "example": "Would you like to join our team?"
+    },
+    {
+      "word": "manage",
+      "meaning": "yönetmek",
+      "example": "She manages a team of ten people."
+    },
+    {
+      "word": "organize",
+      "meaning": "düzenlemek",
+      "example": "We organized a charity event."
+    },
+    {
+      "word": "perform",
+      "meaning": "gerçekleştirmek, sahnelemek",
+      "example": "They performed a play at school."
+    },
+    {
+      "word": "persuade",
+      "meaning": "ikna etmek",
+      "example": "I persuaded him to change his mind."
+    },
+    {
+      "word": "plan",
+      "meaning": "planlamak",
+      "example": "We’re planning a trip to Europe."
+    },
+    {
+      "word": "prepare",
+      "meaning": "hazırlamak",
+      "example": "She’s preparing for the exam."
+    },
+    {
+      "word": "present",
+      "meaning": "sunmak",
+      "example": "He presented his ideas to the team."
+    },
+    {
+      "word": "prevent",
+      "meaning": "önlemek",
+      "example": "We need to prevent accidents."
+    },
+    {
+      "word": "produce",
+      "meaning": "üretmek",
+      "example": "The factory produces cars."
+    },
+    {
+      "word": "promote",
+      "meaning": "terfi ettirmek, tanıtmak",
+      "example": "They promoted her to manager."
+    },
+    {
+      "word": "protect",
+      "meaning": "korumak",
+      "example": "We must protect the environment."
+    },
+    {
+      "word": "recognize",
+      "meaning": "tanımak, fark etmek",
+      "example": "I recognized her from the photo."
+    },
+    {
+      "word": "recommend",
+      "meaning": "önermek",
+      "example": "Can you recommend a good book?"
+    },
+    {
+      "word": "reduce",
+      "meaning": "azaltmak",
+      "example": "We should reduce waste."
+    },
+    {
+      "word": "reflect",
+      "meaning": "yansıtmak, düşünmek",
+      "example": "I need to reflect on my decisions."
+    },
+    {
+      "word": "replace",
+      "meaning": "yerine geçmek, değiştirmek",
+      "example": "They replaced the old machine."
+    },
+    {
+      "word": "represent",
+      "meaning": "temsil etmek",
+      "example": "She represents our company."
+    },
+    {
+      "word": "resolve",
+      "meaning": "çözmek",
+      "example": "We resolved the issue quickly."
+    },
+    {
+      "word": "respond",
+      "meaning": "yanıt vermek",
+      "example": "Please respond to the email soon."
+    },
+    {
+      "word": "review",
+      "meaning": "gözden geçirmek",
+      "example": "I need to review my notes."
+    },
+    {
+      "word": "select",
+      "meaning": "seçmek",
+      "example": "You can select one option."
+    },
+    {
+      "word": "solve",
+      "meaning": "çözmek",
+      "example": "She solved the puzzle quickly."
+    },
+    {
+      "word": "suggest",
+      "meaning": "önermek",
+      "example": "I suggest we meet tomorrow."
+    },
+    {
+      "word": "support",
+      "meaning": "desteklemek",
+      "example": "I support your decision."
+    },
+    {
+      "word": "train",
+      "meaning": "eğitmek",
+      "example": "They trained the new employees."
+    },
+    {
+      "word": "advantage",
+      "meaning": "avantaj",
+      "example": "This plan has many advantages."
+    },
+    {
+      "word": "challenge",
+      "meaning": "zorluk, meydan okuma",
+      "example": "This task is a real challenge."
+    },
+    {
+      "word": "condition",
+      "meaning": "durum, koşul",
+      "example": "The car is in good condition."
+    },
+    {
+      "word": "decision",
+      "meaning": "karar",
+      "example": "I made a difficult decision."
+    },
+    {
+      "word": "development",
+      "meaning": "gelişim",
+      "example": "The city has seen rapid development."
+    },
+    {
+      "word": "difference",
+      "meaning": "fark",
+      "example": "There’s a big difference between them."
+    },
+    {
+      "word": "effort",
+      "meaning": "çaba",
+      "example": "She put a lot of effort into her work."
+    },
+    {
+      "word": "goal",
+      "meaning": "hedef",
+      "example": "My goal is to learn a new language."
+    },
+    {
+      "word": "impact",
+      "meaning": "etki",
+      "example": "The news had a big impact on us."
+    },
+    {
+      "word": "issue",
+      "meaning": "sorun, konu",
+      "example": "We discussed several issues."
+    },
+    {
+      "word": "opportunity",
+      "meaning": "fırsat",
+      "example": "This is a great opportunity."
+    },
+    {
+      "word": "priority",
+      "meaning": "öncelik",
+      "example": "Health is my top priority."
+    },
+    {
+      "word": "process",
+      "meaning": "süreç",
+      "example": "Learning is a slow process."
+    },
+    {
+      "word": "progress",
+      "meaning": "ilerleme",
+      "example": "She’s making good progress."
+    },
+    {
+      "word": "project",
+      "meaning": "proje",
+      "example": "We’re working on a new project."
+    },
+    {
+      "word": "reason",
+      "meaning": "sebep",
+      "example": "What’s the reason for your visit?"
+    },
+    {
+      "word": "result",
+      "meaning": "sonuç",
+      "example": "The results were impressive."
+    },
+    {
+      "word": "risk",
+      "meaning": "risk",
+      "example": "There’s a risk of rain today."
+    },
+    {
+      "word": "situation",
+      "meaning": "durum",
+      "example": "We’re in a difficult situation."
+    },
+    {
+      "word": "solution",
+      "meaning": "çözüm",
+      "example": "We found a solution to the problem."
+    },
+    {
+      "word": "strategy",
+      "meaning": "strateji",
+      "example": "We need a new strategy."
+    },
+    {
+      "word": "task",
+      "meaning": "görev",
+      "example": "I have several tasks to complete."
+    },
+    {
+      "word": "available",
+      "meaning": "mevcut",
+      "example": "Is this book available?"
+    },
+    {
+      "word": "aware",
+      "meaning": "farkında",
+      "example": "Are you aware of the new rules?"
+    },
+    {
+      "word": "capable",
+      "meaning": "yetenekli",
+      "example": "She’s capable of doing great things."
+    },
+    {
+      "word": "confident",
+      "meaning": "kendine güvenen",
+      "example": "I feel confident about the test."
+    },
+    {
+      "word": "effective",
+      "meaning": "etkili",
+      "example": "This method is very effective."
+    },
+    {
+      "word": "necessary",
+      "meaning": "gerekli",
+      "example": "It’s necessary to plan ahead."
+    },
+    {
+      "word": "responsible",
+      "meaning": "sorumlu",
+      "example": "He’s responsible for the project."
+    }
+  ]
+}

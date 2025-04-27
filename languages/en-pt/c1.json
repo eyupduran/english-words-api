@@ -1,0 +1,520 @@
+{
+  "level": "C1",
+  "words": [
+    {
+      "word": "meticulous",
+      "meaning": "titiz, ayrıntılı",
+      "example": "She is meticulous in her research methods."
+    },
+    {
+      "word": "profound",
+      "meaning": "derin, kapsamlı",
+      "example": "The book had a profound impact on my thinking."
+    },
+    {
+      "word": "ambiguous",
+      "meaning": "belirsiz, muğlak",
+      "example": "The contract terms were ambiguous."
+    },
+    {
+      "word": "empirical",
+      "meaning": "deneysel, ampirik",
+      "example": "The study provides empirical evidence."
+    },
+    {
+      "word": "intricate",
+      "meaning": "karmaşık, çapraşık",
+      "example": "The watch has an intricate mechanism."
+    },
+    {
+      "word": "paradigm",
+      "meaning": "örnek, model",
+      "example": "This represents a new paradigm in education."
+    },
+    {
+      "word": "pragmatic",
+      "meaning": "pragmatik, faydacı",
+      "example": "We need a pragmatic approach to this problem."
+    },
+    {
+      "word": "scrutinize",
+      "meaning": "dikkatle incelemek",
+      "example": "The committee will scrutinize all applications."
+    },
+    {
+      "word": "ubiquitous",
+      "meaning": "her yerde bulunan",
+      "example": "Smartphones have become ubiquitous."
+    },
+    {
+      "word": "verbose",
+      "meaning": "sözü uzatan, gereksiz ayrıntılı",
+      "example": "The report was unnecessarily verbose."
+    },
+    {
+      "word": "abate",
+      "meaning": "azalmak, hafiflemek",
+      "example": "The storm began to abate after hours."
+    },
+    {
+      "word": "adverse",
+      "meaning": "olumsuz, ters",
+      "example": "The policy had adverse effects on the economy."
+    },
+    {
+      "word": "alleviate",
+      "meaning": "hafifletmek",
+      "example": "This medicine will alleviate your pain."
+    },
+    {
+      "word": "articulate",
+      "meaning": "ifade etmek, açıkça söylemek",
+      "example": "She articulated her concerns eloquently."
+    },
+    {
+      "word": "ascertain",
+      "meaning": "belirlemek, tespit etmek",
+      "example": "We need to ascertain the cause of the issue."
+    },
+    {
+      "word": "coerce",
+      "meaning": "zorlamak",
+      "example": "Nobody should be coerced into signing."
+    },
+    {
+      "word": "cognizant",
+      "meaning": "farkında, haberdar",
+      "example": "He was cognizant of the risks involved."
+    },
+    {
+      "word": "compel",
+      "meaning": "zorunlu kılmak",
+      "example": "The evidence compelled a change in policy."
+    },
+    {
+      "word": "concur",
+      "meaning": "aynı fikirde olmak",
+      "example": "I concur with your assessment."
+    },
+    {
+      "word": "constrain",
+      "meaning": "kısıtlamak",
+      "example": "Budget cuts constrained our options."
+    },
+    {
+      "word": "corroborate",
+      "meaning": "doğrulamak",
+      "example": "The witness corroborated her story."
+    },
+    {
+      "word": "culminate",
+      "meaning": "sonuçlanmak, doruğa ulaşmak",
+      "example": "Years of work culminated in this achievement."
+    },
+    {
+      "word": "debilitate",
+      "meaning": "zayıflatmak",
+      "example": "The illness debilitated him for months."
+    },
+    {
+      "word": "delineate",
+      "meaning": "tanımlamak, tarif etmek",
+      "example": "The report delineates the key issues."
+    },
+    {
+      "word": "deprecate",
+      "meaning": "küçümsemek, yermek",
+      "example": "He deprecated her efforts unfairly."
+    },
+    {
+      "word": "disparage",
+      "meaning": "küçümsemek, kötülemek",
+      "example": "You shouldn’t disparage their work."
+    },
+    {
+      "word": "disseminate",
+      "meaning": "yaymak, dağıtmak",
+      "example": "They disseminated the information widely."
+    },
+    {
+      "word": "elucidate",
+      "meaning": "aydınlatmak, açıklamak",
+      "example": "Can you elucidate your argument?"
+    },
+    {
+      "word": "emulate",
+      "meaning": "taklit etmek, örnek almak",
+      "example": "She tried to emulate her mentor’s success."
+    },
+    {
+      "word": "engender",
+      "meaning": "ortaya çıkarmak",
+      "example": "The policy engendered widespread debate."
+    },
+    {
+      "word": "ephemeral",
+      "meaning": "geçici, kısa ömürlü",
+      "example": "Fame can be ephemeral."
+    },
+    {
+      "word": "exacerbate",
+      "meaning": "kötüleştirmek",
+      "example": "His comments exacerbated the situation."
+    },
+    {
+      "word": "expedite",
+      "meaning": "hızlandırmak",
+      "example": "We need to expedite the process."
+    },
+    {
+      "word": "extrapolate",
+      "meaning": "tahmin etmek, sonuç çıkarmak",
+      "example": "We can extrapolate trends from the data."
+    },
+    {
+      "word": "facilitate",
+      "meaning": "kolaylaştırmak",
+      "example": "The new software facilitates collaboration."
+    },
+    {
+      "word": "fortuitous",
+      "meaning": "tesadüfi, şans eseri",
+      "example": "The discovery was fortuitous."
+    },
+    {
+      "word": "impede",
+      "meaning": "engel olmak",
+      "example": "Lack of funds impeded progress."
+    },
+    {
+      "word": "inadvertent",
+      "meaning": "istem dışı, kasıtsız",
+      "example": "The error was inadvertent."
+    },
+    {
+      "word": "incite",
+      "meaning": "kışkırtmak",
+      "example": "His speech incited the crowd."
+    },
+    {
+      "word": "induce",
+      "meaning": "ikna etmek, teşvik etmek",
+      "example": "They induced him to join the project."
+    },
+    {
+      "word": "inhibit",
+      "meaning": "engellemek",
+      "example": "Fear can inhibit creativity."
+    },
+    {
+      "word": "innate",
+      "meaning": "doğuştan",
+      "example": "She has an innate talent for music."
+    },
+    {
+      "word": "insinuate",
+      "meaning": "ima etmek, üstü kapalı söylemek",
+      "example": "He insinuated that she was dishonest."
+    },
+    {
+      "word": "mitigate",
+      "meaning": "hafifletmek",
+      "example": "We need to mitigate the risks."
+    },
+    {
+      "word": "obscure",
+      "meaning": "belirsiz, anlaşılmaz",
+      "example": "The meaning of the text was obscure."
+    },
+    {
+      "word": "perpetuate",
+      "meaning": "sürdürmek, kalıcı kılmak",
+      "example": "These myths perpetuate stereotypes."
+    },
+    {
+      "word": "preclude",
+      "meaning": "önlemek, engellemek",
+      "example": "This decision precludes further discussion."
+    },
+    {
+      "word": "predispose",
+      "meaning": "yatkın hale getirmek",
+      "example": "Genetics may predispose some to illness."
+    },
+    {
+      "word": "proliferate",
+      "meaning": "hızla çoğalmak",
+      "example": "Online platforms have proliferated."
+    },
+    {
+      "word": "propagate",
+      "meaning": "yaymak, çoğaltmak",
+      "example": "They propagated their ideas widely."
+    },
+    {
+      "word": "reconcile",
+      "meaning": "uzlaştırmak",
+      "example": "She reconciled her beliefs with reality."
+    },
+    {
+      "word": "refute",
+      "meaning": "çürütmek",
+      "example": "He refuted the claims with evidence."
+    },
+    {
+      "word": "reiterate",
+      "meaning": "tekrar etmek",
+      "example": "Let me reiterate my main point."
+    },
+    {
+      "word": "substantiate",
+      "meaning": "kanıtlamak",
+      "example": "You must substantiate your argument."
+    },
+    {
+      "word": "supersede",
+      "meaning": "yerini almak",
+      "example": "New technology superseded the old."
+    },
+    {
+      "word": "synthesis",
+      "meaning": "sentez, birleştirme",
+      "example": "The book offers a synthesis of ideas."
+    },
+    {
+      "word": "tenuous",
+      "meaning": "zayıf, belirsiz",
+      "example": "The connection between them is tenuous."
+    },
+    {
+      "word": "undermine",
+      "meaning": "zayıflatmak",
+      "example": "His actions undermined her confidence."
+    },
+    {
+      "word": "vindicate",
+      "meaning": "haklı çıkarmak",
+      "example": "The verdict vindicated her position."
+    },
+    {
+      "word": "volatile",
+      "meaning": "değişken, istikrarsız",
+      "example": "The market is highly volatile."
+    },
+    {
+      "word": "anomaly",
+      "meaning": "anormallik",
+      "example": "This result is an anomaly in the data."
+    },
+    {
+      "word": "catalyst",
+      "meaning": "katalizör, tetikleyici",
+      "example": "The event was a catalyst for change."
+    },
+    {
+      "word": "conundrum",
+      "meaning": "muamma, bilmece",
+      "example": "The issue remains a conundrum."
+    },
+    {
+      "word": "corollary",
+      "meaning": "sonuç, doğal çıkarım",
+      "example": "This is a corollary of our findings."
+    },
+    {
+      "word": "dichotomy",
+      "meaning": "ikilik, ayrım",
+      "example": "There’s a dichotomy between theory and practice."
+    },
+    {
+      "word": "dogma",
+      "meaning": "dogma, körü körüne inanç",
+      "example": "He challenged the prevailing dogma."
+    },
+    {
+      "word": "fallacy",
+      "meaning": "yanılgı",
+      "example": "That assumption is a fallacy."
+    },
+    {
+      "word": "incongruity",
+      "meaning": "uyumsuzluk",
+      "example": "There’s an incongruity in their arguments."
+    },
+    {
+      "word": "nuance",
+      "meaning": "nüans, incelik",
+      "example": "You need to understand the nuances of the issue."
+    },
+    {
+      "word": "predicament",
+      "meaning": "zor durum",
+      "example": "She found herself in a predicament."
+    },
+    {
+      "word": "quandary",
+      "meaning": "kararsızlık, ikilem",
+      "example": "I’m in a quandary about what to do."
+    },
+    {
+      "word": "stigma",
+      "meaning": "damga, leke",
+      "example": "There’s a stigma attached to failure."
+    },
+    {
+      "word": "trajectory",
+      "meaning": "yörünge, seyir",
+      "example": "Her career followed an upward trajectory."
+    },
+    {
+      "word": "arbitrary",
+      "meaning": "keyfi, rastgele",
+      "example": "The decision seemed arbitrary."
+    },
+    {
+      "word": "benevolent",
+      "meaning": "iyiliksever",
+      "example": "Her benevolent actions inspired others."
+    },
+    {
+      "word": "candid",
+      "meaning": "içten, samimi",
+      "example": "He gave a candid opinion."
+    },
+    {
+      "word": "clandestine",
+      "meaning": "gizli",
+      "example": "They held clandestine meetings."
+    },
+    {
+      "word": "cohesive",
+      "meaning": "birleşik, uyumlu",
+      "example": "The team is cohesive and effective."
+    },
+    {
+      "word": "contentious",
+      "meaning": "çekişmeli",
+      "example": "The topic is highly contentious."
+    },
+    {
+      "word": "deceptive",
+      "meaning": "aldatıcı",
+      "example": "The advertisement was deceptive."
+    },
+    {
+      "word": "discreet",
+      "meaning": "temkinli",
+      "example": "She was discreet about her plans."
+    },
+    {
+      "word": "disparate",
+      "meaning": "farklı, uyumsuz",
+      "example": "They come from disparate backgrounds."
+    },
+    {
+      "word": "efficacious",
+      "meaning": "etkili",
+      "example": "The treatment proved efficacious."
+    },
+    {
+      "word": "equivocal",
+      "meaning": "belirsiz, muğlak",
+      "example": "His response was equivocal."
+    },
+    {
+      "word": "exorbitant",
+      "meaning": "aşırı, fahiş",
+      "example": "The price was exorbitant."
+    },
+    {
+      "word": "fastidious",
+      "meaning": "titiz, zor beğenen",
+      "example": "He is fastidious about his appearance."
+    },
+    {
+      "word": "furtive",
+      "meaning": "gizli, kaçamak",
+      "example": "She cast a furtive glance at him."
+    },
+    {
+      "word": "impartial",
+      "meaning": "tarafsız",
+      "example": "The judge was impartial."
+    },
+    {
+      "word": "implausible",
+      "meaning": "inandırıcı olmayan",
+      "example": "The excuse seemed implausible."
+    },
+    {
+      "word": "inconsequential",
+      "meaning": "önemsiz",
+      "example": "The mistake was inconsequential."
+    },
+    {
+      "word": "insatiable",
+      "meaning": "doyumsuz",
+      "example": "He has an insatiable appetite for knowledge."
+    },
+    {
+      "word": "intangible",
+      "meaning": "soyut, dokunulmaz",
+      "example": "The benefits are intangible but real."
+    },
+    {
+      "word": "irrefutable",
+      "meaning": "çürütülemez",
+      "example": "The evidence was irrefutable."
+    },
+    {
+      "word": "lucid",
+      "meaning": "açık, berrak",
+      "example": "Her explanation was lucid and concise."
+    },
+    {
+      "word": "negligible",
+      "meaning": "önemsiz, ihmal edilebilir",
+      "example": "The difference is negligible."
+    },
+    {
+      "word": "ostensible",
+      "meaning": "görünürdeki",
+      "example": "The ostensible reason was cost-cutting."
+    },
+    {
+      "word": "precarious",
+      "meaning": "güvencesiz, tehlikeli",
+      "example": "Their situation is precarious."
+    },
+    {
+      "word": "redundant",
+      "meaning": "gereksiz, fazlalık",
+      "example": "The system eliminated redundant tasks."
+    },
+    {
+      "word": "resilient",
+      "meaning": "dirençli",
+      "example": "She’s resilient in the face of setbacks."
+    },
+    {
+      "word": "stringent",
+      "meaning": "sıkı, katı",
+      "example": "The rules are stringent but fair."
+    },
+    {
+      "word": "superfluous",
+      "meaning": "gereksiz, fazla",
+      "example": "The details were superfluous."
+    },
+    {
+      "word": "unprecedented",
+      "meaning": "benzeri görülmemiş",
+      "example": "The event was unprecedented in scale."
+    },
+    {
+      "word": "vexing",
+      "meaning": "can sıkıcı",
+      "example": "The delay was a vexing problem."
+    }
+  ]
+}
