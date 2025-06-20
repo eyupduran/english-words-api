@@ -1,0 +1,218 @@
+{
+  "A1": [
+    {
+      "name": "prepositions",
+      "words": [
+        {
+          "word": "after",
+          "meaning": "sonra",
+          "example": "I have breakfast after school.",
+          "example2": "We went to the park after lunch."
+        },
+        {
+          "word": "in",
+          "meaning": "içinde",
+          "example": "The book is in the bag.",
+          "example2": "She is in the room."
+        }
+      ]
+    },
+    {
+      "name": "verbs",
+      "words": [
+        {
+          "word": "go",
+          "meaning": "gitmek",
+          "example": "I go to school every day.",
+          "example2": "Let's go to the cinema tonight."
+        },
+        {
+          "word": "eat",
+          "meaning": "yemek",
+          "example": "I eat an apple for lunch.",
+          "example2": "They eat dinner at 7 p.m."
+        }
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "name": "adverbs",
+      "words": [
+        {
+          "word": "quickly",
+          "meaning": "hızlıca",
+          "example": "She ran quickly to catch the bus.",
+          "example2": "He quickly answered the question."
+        },
+        {
+          "word": "usually",
+          "meaning": "genellikle",
+          "example": "I usually wake up at 7 a.m.",
+          "example2": "They usually eat out on Sundays."
+        }
+      ]
+    },
+    {
+      "name": "travel",
+      "words": [
+        {
+          "word": "ticket",
+          "meaning": "bilet",
+          "example": "I bought a train ticket.",
+          "example2": "Do you have a bus ticket?"
+        },
+        {
+          "word": "luggage",
+          "meaning": "bagaj",
+          "example": "My luggage is very heavy.",
+          "example2": "She packed her luggage last night."
+        }
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "name": "phrasal verbs",
+      "words": [
+        {
+          "word": "give up",
+          "meaning": "vazgeçmek",
+          "example": "He gave up smoking last year.",
+          "example2": "Don't give up, you're almost there!"
+        },
+        {
+          "word": "look after",
+          "meaning": "ilgilenmek",
+          "example": "I look after my little brother.",
+          "example2": "Can you look after my cat this weekend?"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "words": [
+        {
+          "word": "colleague",
+          "meaning": "iş arkadaşı",
+          "example": "My colleagues are very friendly.",
+          "example2": "I met my colleague at the meeting."
+        },
+        {
+          "word": "promotion",
+          "meaning": "terfi",
+          "example": "She got a promotion last month.",
+          "example2": "He worked hard for his promotion."
+        }
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "name": "abstract nouns",
+      "words": [
+        {
+          "word": "freedom",
+          "meaning": "özgürlük",
+          "example": "Freedom is important for everyone.",
+          "example2": "They fought for their freedom."
+        },
+        {
+          "word": "justice",
+          "meaning": "adalet",
+          "example": "Justice must be served.",
+          "example2": "We believe in fairness and justice."
+        }
+      ]
+    },
+    {
+      "name": "technology",
+      "words": [
+        {
+          "word": "device",
+          "meaning": "cihaz",
+          "example": "This device helps me work faster.",
+          "example2": "He invented a new medical device."
+        },
+        {
+          "word": "software",
+          "meaning": "yazılım",
+          "example": "He develops mobile software.",
+          "example2": "The software needs an update."
+        }
+      ]
+    }
+  ],
+  "C1": [
+    {
+      "name": "academic",
+      "words": [
+        {
+          "word": "hypothesis",
+          "meaning": "varsayım",
+          "example": "The hypothesis was tested in the lab.",
+          "example2": "Her hypothesis turned out to be correct."
+        },
+        {
+          "word": "analysis",
+          "meaning": "analiz",
+          "example": "His analysis was very detailed.",
+          "example2": "We need a financial analysis."
+        }
+      ]
+    },
+    {
+      "name": "business",
+      "words": [
+        {
+          "word": "strategy",
+          "meaning": "strateji",
+          "example": "We need a new marketing strategy.",
+          "example2": "His strategy saved the company."
+        },
+        {
+          "word": "revenue",
+          "meaning": "gelir",
+          "example": "The company's revenue increased.",
+          "example2": "Online sales generate high revenue."
+        }
+      ]
+    }
+  ],
+  "C2": [
+    {
+      "name": "idioms",
+      "words": [
+        {
+          "word": "beat around the bush",
+          "meaning": "lafı dolandırmak",
+          "example": "Stop beating around the bush and tell me the truth.",
+          "example2": "He always beats around the bush when he's nervous."
+        },
+        {
+          "word": "once in a blue moon",
+          "meaning": "çok nadir",
+          "example": "I see him once in a blue moon.",
+          "example2": "That event happens once in a blue moon."
+        }
+      ]
+    },
+    {
+      "name": "legal",
+      "words": [
+        {
+          "word": "jurisdiction",
+          "meaning": "yargı yetkisi",
+          "example": "The court has no jurisdiction over this case.",
+          "example2": "Each country has its own legal jurisdiction."
+        },
+        {
+          "word": "defendant",
+          "meaning": "sanık",
+          "example": "The defendant was found guilty.",
+          "example2": "The defendant hired a lawyer."
+        }
+      ]
+    }
+  ]
+}
